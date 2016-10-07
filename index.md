@@ -3,7 +3,7 @@ layout: default
 title: Computer Vision
 ---
 
-# Computer Vision
+# Special Topics in Materials Engineering
 
 ### Second semester 2016
 
@@ -12,24 +12,24 @@ Andrés Marrugo, PhD
 
 ##  Aims and Scope
 
-This semester course is an introduction to computer vision. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of techniques in computer vision.
+This module is an introduction to optical techniques for shape and deformation measurements. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of optical metrology in experimental mechanics.
 
 At the end of the lectures, one would be able to:
 
-- Have clear idea of challenges in computer vision due to increasing use in mobile applications.
-- Understand many different computer vision algorithms and approaches.
-- Implement computer vision algorithms for mid-level vision tasks.
+- Have clear idea of challenges in optical metrology for shape and deformation measurements.
+- Understand many different optical metrology techniques.
+- Implement several image processing algorithms for optical measurements.
  
 
 
 ## Useful Resources
 
+Several of the techniques that we will study are to be implemented in MATLAB. Please follow the tutorials and get acquainted with the programing environement. 
+
 ### Tutorials, review materials
 
 - [MATLAB tutorial](matlab.intro.html)
 - More MATLAB tutorials: [basic operations][bo], [programming][pro], [working with images][wim]
-- [Linear algebra review](http://www.cse.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf)
-- [Random variables review](http://www.cse.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf)
  
 [bo]: matlab_ops_tutorial.m
 [pro]:matlab_prog_tutorial.m
@@ -48,15 +48,15 @@ This is a new course, this website will be updated as we go along.
 
 ### Lecture 1: Introduction
 
-We will be discussing the main aspects and motivation for computer vision.
+We will be discussing the main aspects and motivation for optical techniques in experimental mechanics.
 
-[Lecture 1 slides](https://www.dropbox.com/s/mc5ijbj9onqua67/lec01_intro.pdf?dl=0)
+[Lecture 1 slides]()
 
-### Lecture 2: Perspective projection
+### Lecture 2: Basic Optical Principles and Imaging Systems
 
 We will be studying the main aspects about perspective projection and the pinhole camera model.
 
-[Lecture 2 slides](https://www.dropbox.com/s/qtbrz67j4jfp2as/lec02_perspective.pdf?dl=0)
+[Lecture 2 slides]()
 
 #### Reading
 
