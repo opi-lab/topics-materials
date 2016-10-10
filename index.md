@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Computer Vision
+title: Special Topics in Materials Engineering
 ---
 
 # Special Topics in Materials Engineering
@@ -8,7 +8,13 @@ title: Computer Vision
 ### Second semester 2016
 
 Andrés Marrugo, PhD
+Jairo Useche, PhD
 *Universidad Tecnológica de Bolívar*
+
+Invited lecturers: 
+
+- Marcelo Pagnola, Universidad de Buenos Aires (Argentina)
+- Marcin Górski, Silesian Technical University (Poland)
 
 ##  Aims and Scope
 
