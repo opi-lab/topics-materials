@@ -7,8 +7,8 @@ title: Special Topics in Materials Engineering
 
 ### Second semester 2016
 
-Andrés Marrugo, PhD
-Jairo Useche, PhD
+Andrés Marrugo, PhD   
+Jairo Useche, PhD   
 *Universidad Tecnológica de Bolívar*
 
 Invited lecturers: 
