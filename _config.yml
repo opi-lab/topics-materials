@@ -1,10 +1,10 @@
 # Site settings
-title: Computer Vision
+title: Special Topics in Materials Engineering
 description: >
-  Lecture notes on the graduate course Computer Vision @ Universidad Tecnológica de Bolívar
+  Lecture notes on the graduate course Special Topics in Materials Engineering @ Universidad Tecnológica de Bolívar
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://opi-lab.github.io/computer-vision/" # the base hostname & protocol for your site
+url: "https://opi-lab.github.io/topics-materials/" # the base hostname & protocol for your site
 
 #source: /
 # destination: /_site/
