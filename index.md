@@ -48,15 +48,17 @@ This is a new course, this website will be updated as we go along.
 
 ### Lecture 1: Introduction
 
-We will be discussing the main aspects and motivation for optical techniques in experimental mechanics.
+We will be discussing the main aspects and motivation for optical techniques in experimental mechanics. A brief discussion on accuracy and precision related to uncertainty in physical measurements. 
 
-[Lecture 1 slides]()
+[Lecture 1 slides](https://www.dropbox.com/s/janth8jr4kjyptt/Lecture_01.pdf?dl=0)
+
+#### Reading
 
 ### Lecture 2: Basic Optical Principles and Imaging Systems
 
-We will be studying the main aspects about perspective projection and the pinhole camera model.
+We will be studying the basic optical principles, the nature of light, light as a wave, polarization, wavefront propagation, and image formation with lenses.
 
-[Lecture 2 slides]()
+[Lecture 2 slides](https://www.dropbox.com/s/e6cy8hilcr7t4bv/Lecture_02.pdf?dl=0)
 
 #### Reading
 
