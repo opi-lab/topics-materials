@@ -60,6 +60,9 @@ We will be discussing the main aspects and motivation for optical techniques in 
 
 #### Reading
 
+- [A note on device calibration](https://www.dropbox.com/s/euy6n11l887q0sx/03-NoteDeviceCalibration.pdf?dl=0)
+- [A paper on characterization of hyperelastic materials based on optical methods](https://www.dropbox.com/s/5shl2zn33fifvo6/Polymer_Testing_Sasso_2008.pdf?dl=0)
+
 ### Lecture 2: Basic Optical Principles and Imaging Systems
 
 We will be studying the basic optical principles, the nature of light, light as a wave, polarization, wavefront propagation, and image formation with lenses.
