@@ -71,21 +71,51 @@ We will be studying the basic optical principles, the nature of light, light as 
 
 #### Reading
 
-<!-- - [Forsyth and Ponce 1st chapter](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
-- [Camera geometry and parameters](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0) -->
+- [Gasvik 1st chapter](https://www.dropbox.com/s/bcsmtywsz2dkpmt/01-gasvik-basics.pdf?dl=0)
 
-<!-- ### Assignment 1
+### Lecture 3: Optical interferometry.
+
+We will be studying the fundamentals of optical interferometry.
+
+[Lecture 3 slides](https://www.dropbox.com/s/t5vccdwyr3w5r1b/Lecture_03.pdf?dl=0)
+
+#### Reading
+
+- [Gasvik 3rd chapter](https://www.dropbox.com/s/9dkoqu20j7p3dgd/02-gasvik-inteference.pdf?dl=0)
+
+### Lecture 4: 
+
+We will be studying the fundamentals of optical interferometry.
+
+[Lecture 4 slides](https://www.dropbox.com/s/aa0uda9z7p6llif/Lecture_04.pdf?dl=0)
+
+#### Reading
+
+- [Phase shifting systems](https://www.dropbox.com/s/8vot6dsvxd029f1/03-phase-shifting-systems-kevin-g-harding-handbook-of-optical-dimensional-metrology.pdf?dl=0)
+
+### Lecture 5: Moiré and Triangulation 
+
+Measuring in-plane and out-of-plane displacements.
+
+[Lecture 5 slides](https://www.dropbox.com/s/ne4l921c6q0k754/Lecture_05.pdf?dl=0)
+
+#### Reading
+
+- [Moiré](https://www.dropbox.com/s/rux5i1qnt4blmgj/07-gasvik-moire.pdf?dl=0)
+
+
+### Assignment 1
 
 In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. **The assignment is due on 2016-09-02 at 11:00 pm.** The assignment and the data:
 
-- [Assignment 1](computer-vision-assignment1.pdf)
-- [Assignment data](assignment1data.zip)
+- [Assignment 1](https://www.dropbox.com/s/hf2y1tb2yamjnep/Simul_Franjas_Dec.pdf?dl=0)
+- [Assignment data](https://www.dropbox.com/s/99w829u7doo77mu/Archive.zip?dl=0)
 
-[**Upload link**](https://www.dropbox.com/request/kcbzM88o03DyAlpOLBtb)
+[**Upload link**]()
 
 #### Supporting material
 
-- [Lecture notes by Magnus Oskarsson](alllectures.pdf)
+<!-- - [Lecture notes by Magnus Oskarsson](alllectures.pdf)
 - [Homogeneous Coordinates and Transformations of the Plane](9781852338015-c1.pdf)
 - [Projective Geometry and Transformations in 2D](Hartley-Zisserman-chapter-02.pdf) -->
 
