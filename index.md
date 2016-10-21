@@ -115,7 +115,7 @@ In this assignment you will study the basics of projective geometry. You will st
 
 #### Supporting material
 
-<!-- - [Lecture notes by Magnus Oskarsson](alllectures.pdf)
-- [Homogeneous Coordinates and Transformations of the Plane](9781852338015-c1.pdf)
-- [Projective Geometry and Transformations in 2D](Hartley-Zisserman-chapter-02.pdf) -->
+- [Barrera_2013](https://www.dropbox.com/s/85dt1vri6s29rfk/Barrera_2013.pdf?dl=0)
+- [Revista_INGE_CUC_Gonzalez_2012](https://www.dropbox.com/s/pvvsasv2h8zdlje/Revista_INGE_CUC_Gonzalez_2012.pdf?dl=0)
+- [Revista_Investigaciones_Aplicadas_Arciniegas_2015](https://www.dropbox.com/s/2bc8q3cj5a4icm1/Revista_Investigaciones_Aplicadas_Arciniegas_2015.pdf?dl=0)
 
