@@ -106,7 +106,7 @@ Measuring in-plane and out-of-plane displacements.
 
 ### Assignment 1
 
-In this assignment you will study the basics of 3D reconstruction by fringe projection. Submit a report in PDF with calculation and the recovered surface. To display use the command ``mesh(X,Y,Z)``, where ``Z`` is the recovered surface in mm and ``X, Y`` are the transversal field in mm. You can calculate ``X,Y`` with the command ``[X,Y]=meshgrid()`` and from the lens equation. 
+In this assignment you will study the basics of 3D reconstruction by fringe projection. Submit a report in PDF with calculation and the recovered surface. To display use the command ``mesh(X,Y,Z)``, where ``Z`` is the recovered surface in mm and ``X, Y`` are the transversal field in mm. You can calculate ``X,Y`` with the command ``[X,Y]=meshgrid()`` and from the lens equation. In the report include a 1-page analysis of one of the three papers in the supporting material section. 
 
 **The assignment is due on 2016-11-4 at 11:00 pm.** The assignment and the data:
 
