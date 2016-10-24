@@ -106,7 +106,11 @@ Measuring in-plane and out-of-plane displacements.
 
 ### Assignment 1
 
-In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. **The assignment is due on 2016-11-4 at 11:00 pm.** The assignment and the data:
+In this assignment you will study the basics of 3D reconstruction by fringe projection. Submit a report in PDF with calculation and the recovered surface. To display use the command ``mesh(X,Y,Z)``, where ``Z`` is the recovered surface in mm and ``X, Y`` are the transversal field in mm. You can calculate ``X,Y`` with the command ``[X,Y]=meshgrid()`` and from the lens equation. 
+
+**The assignment is due on 2016-11-4 at 11:00 pm.** The assignment and the data:
+
+
 
 - [Assignment 1](https://www.dropbox.com/s/hf2y1tb2yamjnep/Simul_Franjas_Dec.pdf?dl=0)
 - [Assignment data](https://www.dropbox.com/s/99w829u7doo77mu/Archive.zip?dl=0)
