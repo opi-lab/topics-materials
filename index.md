@@ -127,10 +127,10 @@ In this assignment you will study the basics of 3D reconstruction by fringe proj
 
 In this lecture we discuss the principles of Digital Image Correlation for measuring in-plain deformations and strains. We also analyze simulation and experimental data using .
 
-[Lecture 6 slides](https://www.dropbox.com/s/5ailnloacho9flg/Lecture_06.pdf?dl=0)
-[Linear filtering slides](https://www.dropbox.com/s/9fyng6rwqc1qk32/lec05_filter.pptx?dl=0)
-[Template matching slides](https://www.dropbox.com/s/lxgij6tzkc44xpw/06-filtros-piramides-plantillas.pdf?dl=0)
-[Optical flow slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)
+[Lecture 6 slides](https://www.dropbox.com/s/5ailnloacho9flg/Lecture_06.pdf?dl=0)     
+[Linear filtering slides](https://www.dropbox.com/s/9fyng6rwqc1qk32/lec05_filter.pptx?dl=0)      
+[Template matching slides](https://www.dropbox.com/s/lxgij6tzkc44xpw/06-filtros-piramides-plantillas.pdf?dl=0)     
+[Optical flow slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)     
 
 ### Assignment 2
 
@@ -139,6 +139,8 @@ In this assignment you will study the basics strain measurement by digital image
 
 **The assignment is due on 2016-11-19 at 11:00 pm.** The assignment and the data:
 
-[Matlab DIC code](matlab-dic-code.zip)
-[Data set 1](dataset01.zip)
-[Data set 2](dataset02.zip)
+[Matlab DIC code](matlab-dic-code.zip)     
+[Data set 1](dataset01.zip)     
+[Data set 2](dataset02.zip)     
+
+[**Upload link**](https://www.dropbox.com/request/A2tkaa3EuZEJfRJRwRAG)
