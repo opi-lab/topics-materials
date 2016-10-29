@@ -108,7 +108,7 @@ Measuring in-plane and out-of-plane displacements.
 
 In this assignment you will study the basics of 3D reconstruction by fringe projection. Submit a report in PDF with calculation and the recovered surface. To display use the command ``mesh(X,Y,Z)``, where ``Z`` is the recovered surface in mm and ``X, Y`` are the transversal field in mm. You can calculate ``X,Y`` with the command ``[X,Y]=meshgrid()`` and from the lens equation. In the report include a 1-page analysis of one of the three papers in the supporting material section. 
 
-**The assignment is due on 2016-11-4 at 11:00 pm.** The assignment and the data:
+**The assignment is due on 2016-11-5 at 11:00 pm.** The assignment and the data:
 
 
 
@@ -123,3 +123,22 @@ In this assignment you will study the basics of 3D reconstruction by fringe proj
 - [Revista_INGE_CUC_Gonzalez_2012](https://www.dropbox.com/s/pvvsasv2h8zdlje/Revista_INGE_CUC_Gonzalez_2012.pdf?dl=0)
 - [Revista_Investigaciones_Aplicadas_Arciniegas_2015](https://www.dropbox.com/s/2bc8q3cj5a4icm1/Revista_Investigaciones_Aplicadas_Arciniegas_2015.pdf?dl=0)
 
+### Lecture 6: Measurement of Strain by Digital Image Correlation
+
+In this lecture we discuss the principles of Digital Image Correlation for measuring in-plain deformations and strains. We also analyze simulation and experimental data using .
+
+[Lecture 6 slides](https://www.dropbox.com/s/5ailnloacho9flg/Lecture_06.pdf?dl=0)
+[Linear filtering slides](https://www.dropbox.com/s/9fyng6rwqc1qk32/lec05_filter.pptx?dl=0)
+[Template matching slides](https://www.dropbox.com/s/lxgij6tzkc44xpw/06-filtros-piramides-plantillas.pdf?dl=0)
+[Optical flow slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)
+
+### Assignment 2
+
+In this assignment you will study the basics strain measurement by digital image correlation. You have to analyze the two data-sets with the Improved Digital Image Correlation (DIC) toolbox. Follow the tutorial to analyze the first data-set, analyze the second data-set and compute the poisson ratio. Report your findings in a report in PDF. 
+
+
+**The assignment is due on 2016-11-19 at 11:00 pm.** The assignment and the data:
+
+[Matlab DIC code](matlab-dic-code.zip)
+[Data set 1](dataset01.zip)
+[Data set 2](dataset02.zip)
