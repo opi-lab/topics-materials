@@ -144,3 +144,10 @@ In this assignment you will study the basics strain measurement by digital image
 [Data set 2](dataset02.zip)     
 
 [**Upload link**](https://www.dropbox.com/request/A2tkaa3EuZEJfRJRwRAG)
+
+
+### Lecture 7: Fundamentals of Photoelasticity
+
+In this lecture we discuss the principles of photoelasticity as a stress measurement technique.
+
+[Lecture 7 slides](https://www.dropbox.com/s/why3n63jr1z4l2m/Lecture_07.pdf?dl=0)     
