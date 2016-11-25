@@ -137,13 +137,13 @@ In this lecture we discuss the principles of Digital Image Correlation for measu
 In this assignment you will study the basics strain measurement by digital image correlation. You have to analyze the two data-sets with the Improved Digital Image Correlation (DIC) toolbox. Follow the tutorial to analyze the first data-set, analyze the second data-set and compute the poisson ratio. Report your findings in a report in PDF. 
 
 
-**The assignment is due on 2016-11-19 at 11:00 pm.** The assignment and the data:
+**The assignment is due on 2016-11-26 at 11:00 pm.** The assignment and the data:
 
 [Matlab DIC code](matlab-dic-code.zip)     
 [Data set 1](dataset01.zip)     
 [Data set 2](dataset02.zip)     
 
-[**Upload link**](https://www.dropbox.com/request/A2tkaa3EuZEJfRJRwRAG)
+[**Upload link**](https://www.dropbox.com/request/mHkSOs4YL4l80O6b0Psy)
 
 
 ### Lecture 7: Fundamentals of Photoelasticity
