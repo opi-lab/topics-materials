@@ -25,8 +25,11 @@ At the end of the lectures, one would be able to:
 - Have clear idea of challenges in optical metrology for shape and deformation measurements.
 - Understand many different optical metrology techniques.
 - Implement several image processing algorithms for optical measurements.
- 
 
+
+## <mark>Course grades</mark> 
+
+- [Grades](https://www.dropbox.com/s/pz4y7z063bl16ar/Topicos%20Ing%20Materiales%20-%20Sheet1.pdf?dl=0)
 
 ## Useful Resources
 
